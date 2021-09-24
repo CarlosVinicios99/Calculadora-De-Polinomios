@@ -1,0 +1,16 @@
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/bin/Debug/net5.0/PolinomiosQuadrados
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/bin/Debug/net5.0/PolinomiosQuadrados.deps.json
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/bin/Debug/net5.0/PolinomiosQuadrados.runtimeconfig.json
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/bin/Debug/net5.0/PolinomiosQuadrados.runtimeconfig.dev.json
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/bin/Debug/net5.0/PolinomiosQuadrados.dll
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/bin/Debug/net5.0/ref/PolinomiosQuadrados.dll
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/bin/Debug/net5.0/PolinomiosQuadrados.pdb
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/obj/Debug/net5.0/PolinomiosQuadrados.csproj.AssemblyReference.cache
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/obj/Debug/net5.0/PolinomiosQuadrados.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/obj/Debug/net5.0/PolinomiosQuadrados.AssemblyInfoInputs.cache
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/obj/Debug/net5.0/PolinomiosQuadrados.AssemblyInfo.cs
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/obj/Debug/net5.0/PolinomiosQuadrados.csproj.CoreCompileInputs.cache
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/obj/Debug/net5.0/PolinomiosQuadrados.dll
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/obj/Debug/net5.0/ref/PolinomiosQuadrados.dll
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/obj/Debug/net5.0/PolinomiosQuadrados.pdb
+/home/carlos/Documentos/C#/Fundamentos/PolinomiosQuadrados/obj/Debug/net5.0/PolinomiosQuadrados.genruntimeconfig.cache
